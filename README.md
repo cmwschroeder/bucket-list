@@ -5,7 +5,7 @@
 
 ## Description
 
-In this mini-project, we were  given starter code for a React Bucket List app. Some pieces of the application are not complete, and our mission was totake what we have learned so far and complete the app.
+In this mini-project, we were  given starter code for a React Bucket List app. Some pieces of the application are not complete, and our mission was to take what we have learned so far and complete the app.
 
 ![Screen Shot 2022-05-27 at 2 12 54 PM](https://user-images.githubusercontent.com/99919050/170790372-161caea9-80f4-4f83-9e33-ba282686cc8b.png)
 ![Screen Shot 2022-05-27 at 2 13 51 PM](https://user-images.githubusercontent.com/99919050/170790375-0ddcbc43-5380-4d49-9ad9-86f86058b866.png)
