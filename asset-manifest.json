@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bucket-list/static/css/main.864c7c6f.css",
-    "main.js": "/bucket-list/static/js/main.98db0035.js",
+    "main.js": "/bucket-list/static/js/main.3391caf0.js",
     "index.html": "/bucket-list/index.html",
     "main.864c7c6f.css.map": "/bucket-list/static/css/main.864c7c6f.css.map",
-    "main.98db0035.js.map": "/bucket-list/static/js/main.98db0035.js.map"
+    "main.3391caf0.js.map": "/bucket-list/static/js/main.3391caf0.js.map"
   },
   "entrypoints": [
     "static/css/main.864c7c6f.css",
-    "static/js/main.98db0035.js"
+    "static/js/main.3391caf0.js"
   ]
 }
